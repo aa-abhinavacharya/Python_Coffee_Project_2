@@ -2,9 +2,9 @@
 
 ### Note :- All the files used for data analysis are present in the repository. Project is prepared with the help of the course in Udemy [Python Data Visualization: Matplotlib & Seaborn Masterclass](https://www.udemy.com/course/python-pandas/) by Maven Analytics. Datasets are present in the link-[Link](https://www.udemy.com/course/python-data-visualization-matplotlib-seaborn/?srsltid=AfmBOop1YNPr3dWseg0L2AXe6v50HlWa4ne2Q7JMvhT3Fl-q7DuIaszj).
 
-### Data_Source :- [Link](https://drive.google.com/drive/folders/1u4DSPyCQZNgHbrWrTO1N2owGlhrHy1q5?usp=sharing) 
+### Data Sources Files :- [Data Sources](https://drive.google.com/drive/folders/1u4DSPyCQZNgHbrWrTO1N2owGlhrHy1q5?usp=sharing) 
 
-## Project Brief :- A major global coffee trader has approached in seeking independent, data-driven insights into coffee production, with a particular focus on Brazil’s position relative to other coffee-producing nations. This request signals a strategic review of their sourcing practices and cost structures in an increasingly competitive and volatile market. Continuing further analysis from part 1. [Link](https://github.com/aa-abhinavacharya/Python_Coffee_Project_1).
+## Project Brief :- A major global coffee trader has approached in seeking independent, data-driven insights into coffee production, with a particular focus on Brazil’s position relative to other coffee-producing nations. This request signals a strategic review of their sourcing practices and cost structures in an increasingly competitive and volatile market. Continuing further analysis from part 1. [Part1](https://github.com/aa-abhinavacharya/Python_Coffee_Project_1).
 
 ### Objective Brief :- Summarize the findings obtained from the part 1 of this project and preparing few more type of vizualisations to effectively communicate findings from the data.
 
